@@ -1,0 +1,1 @@
+python C:\esp-32-teste\server-python.py
